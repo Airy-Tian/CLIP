@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - run: zip -r ./code.zip . -i ./*
+     - uses: montudor/action-zip@v1.0.0
