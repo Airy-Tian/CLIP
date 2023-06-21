@@ -7,7 +7,7 @@ on:
     branches:
       - main
 jobs:
-  CLIP-test:
+  creat-Zip_File:
     runs-on: ubuntu-latest
 
     steps:
